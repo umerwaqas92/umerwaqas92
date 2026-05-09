@@ -1,41 +1,47 @@
-# Umer Waqas| AI Chatbot & Mobile App Developer
+<div align="center">
+  <img src="./frame_linkin.jpg" alt="Umer Waqas Banner" width="100%" />
 
-I am an experienced AI Chatbot and Mobile App Developer with expertise in Gpt4, Langchain Chain, and OpenAI Fine-Tuning. With a strong background in Android and iOS app development, I specialize in creating high-quality applications that leverage cutting-edge technologies. My skills also extend to Python automation, full-stack development using Django, and integrating various cloud platforms like Firebase, Superbase, and AWS.
+  # Umer Waqas
+  ### AI Agent Engineer | Full-Stack SaaS Builder | Flutter Developer
 
-I have worked on a range of projects, including developing automation bots, fine-tuned web apps, and integrating OpenAI chatbots into WhatsApp and websites. I have collaborated with renowned companies such as ClassDojo, TeamHeadCoach, Launchpad AI, Salambot, and Goliath Technologies.
+  <a href="https://www.upwork.com/freelancers/~010219e25749223694"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="mailto:um.waqas.khan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/umerwaqas92"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
-## Skills
+## About Me
+I build production-ready AI products, automation systems, and mobile/web apps that are shipped fast and maintained properly.
 
-- AI Chatbot Development
-- Android/iOS App Development
-- Gpt4
-- Langchain Chain
-- OpenAI Fine-Tuning
-- Python Automation
-- Full-Stack Development
-- Django
-- MySQL
-- Firebase
-- Superbase
-- AWS
-- Blockchain Technologies (Cardano, EOS, Litecoin)
+- Location: Peshawar, Pakistan
+- Availability: 30+ hrs/week
+- Upwork: 100% Job Success, $10K+ earned, 48 jobs completed
+- Focus: AI Agents, SaaS MVPs, LLM Integrations, Flutter Apps
 
-## Projects
+## Core Expertise
+- AI Agent Development (OpenAI, LangChain, prompt/system design)
+- Full-Stack SaaS (Next.js, React, Node.js, Firebase, VPS)
+- Python Automation and workflow tooling
+- AI Chatbots (Web, API, WhatsApp-style integrations)
+- Flutter app development and publishing
+- Twilio voice calling integrations
 
-- Developed 30+ automation bots in Python
-- Implemented OpenAI Fine-Tuning in 30 projects
-- Created AI apps and chatbots using OpenAI
-- Built fine-tuned web apps for OpenAI
-- Developed OpenAI-based SaaS web apps
-- Integrated OpenAI embeddings
-- Implemented OpenAI chatbots in WhatsApp and websites
-- Worked with ClassDojo, TeamHeadCoach, Launchpad AI, Salambot, Goliath Technologies, and more
+## Tech Stack
+`Python` `TypeScript` `Node.js` `Next.js` `React` `Tailwind CSS` `Flutter` `Firebase` `NGINX` `PM2` `OpenAI API` `LangChain`
 
-## Flutter Development
+## Selected Work
+- AI SaaS MVPs for startups (rapid build + launch)
+- GPT-powered product design web app
+- Bulk image generation and vision pipelines
+- Chatbase-style chatbot products
+- Automation-first web systems with custom integrations
 
-As a Flutter developer, I specialize in building high-quality mobile apps for Android and iOS. Leveraging the power of Flutter, I create responsive and visually appealing applications that provide a seamless user experience.
+## Professional Background
+- Founder, **Fluttydev** (Jan 2020 - Present)
+- Full Stack + AI Developer, **DotcomService** (Jan 2018 - May 2019)
 
-## Contact
+## Let’s Build
+If you need an engineer who can handle product planning, AI integration, and full delivery, let’s work.
 
-Feel free to reach out to me to discuss your project or collaboration opportunities. You can find more details and my complete portfolio on my [GitHub profile](https://github.com/umerwaqas92).
-um.waqas.khan@gmail.com
+- Upwork: https://www.upwork.com/freelancers/~010219e25749223694
+- GitHub: https://github.com/umerwaqas92
+- Email: um.waqas.khan@gmail.com
