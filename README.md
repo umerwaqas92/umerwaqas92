@@ -7,6 +7,8 @@
   <a href="https://www.upwork.com/freelancers/~010219e25749223694"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="mailto:um.waqas.khan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/umerwaqas92"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/umerwaqas93"><img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/umerwaqas92/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ## About Me
@@ -43,4 +45,6 @@ If you need an engineer who can handle product planning, AI integration, and ful
 
 - Upwork: https://www.upwork.com/freelancers/~010219e25749223694
 - GitHub: https://github.com/umerwaqas92
+- X: https://x.com/umerwaqas93
+- LinkedIn: https://www.linkedin.com/in/umerwaqas92/
 - Email: um.waqas.khan@gmail.com
