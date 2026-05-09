@@ -13,7 +13,7 @@
 I build production-ready AI products, automation systems, and mobile/web apps that are shipped fast and maintained properly.
 
 - Availability: 30+ hrs/week
-- Upwork: 100% Job Success, $10K+ earned, 48 jobs completed
+- Upwork: Top Rated, 100% Job Success, $10K+ earned, 48 jobs completed
 - Focus: AI Agents, SaaS MVPs, LLM Integrations, Flutter Apps
 
 ## Core Expertise
