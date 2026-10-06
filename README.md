@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./frame_linkin.jpg" alt="Umer Waqas Banner" width="100%" />
 
   # Umer Waqas
   ### AI Agent Engineer | Full-Stack SaaS Builder | Flutter Developer
