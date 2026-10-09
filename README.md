@@ -14,7 +14,7 @@ Building production-ready AI agents, scalable web platforms, and mobile apps.
 
 ## About Me
 
-I'm **Umer Waqas**, a Pakistan-based senior software engineer building end-to-end AI, SaaS, backend, and mobile products for international teams.
+I'm **Umer Waqas**, a senior software engineer building end-to-end AI, SaaS, backend, and mobile products for international teams.
 
 - **11 years overall software development experience**, including **7+ years in full-stack SaaS** and **3+ years working with AI, RAG, and automation**.
 - **Flutter, Android & iOS:** 10+ years of mobile-development experience across native and cross-platform projects; contributed to 100+ mobile apps.
