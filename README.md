@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Umer Waqas
 ### Senior Software Engineer | AI & Full-Stack SaaS | Flutter iOS & Android
